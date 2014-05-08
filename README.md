@@ -1,2 +1,2 @@
-SimpleModel-iframe-OSX
+SimpleModal-iframe-OSX
 ======================
